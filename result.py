@@ -1,18 +1,4 @@
-Skip to content
- 
-Search…
-All gists
-Back to GitHub
-@wnrud1225 
-@wnrud1225
-wnrud1225/hand detection
-Last active 26 minutes ago
-0
-Code
-Revisions
-2
-<script src="https://gist.github.com/wnrud1225/66a11b2461da95d6fc70b126317543ee.js"></script>
-hand detection
+
 import os
 from os import path
 import random
